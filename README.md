@@ -9,7 +9,8 @@
 
 1. [CMX Mobile Application SDK](https://developer.cisco.com/site/cmx-mobility-services/documents/cmx-mobile-app-guide/#cisco-cmx-mobile-sdk-guide)
 2. [Mobility Services Engine (MSE) REST API](https://developer.cisco.com/site/cmx-mobility-services/tools/tutorials/mse-api-intro/#header-text)
-3. [Mobility Services Downloads](https://developer.cisco.com/site/cmx-mobility-services/downloads/)
+3. [Mobility Services Downloads]
+4. [Cisco CMX Mobile SDK Guide](https://developer.cisco.com/site/cmx-mobility-services/documents/cmx-mobile-app-guide/?objective-c#header-text)
 
 ### Demos
 1. [Skitter Indoor Navigation App Demo - Final](https://www.youtube.com/watch?v=qka2B0U9GlE)
